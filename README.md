@@ -14,7 +14,9 @@ Click [here](https://public.tableau.com/views/GlobalVideogameSales1980-2016/D-GL
 The interactive Tableau Dashboard delves into the dynamic world of video game sales from 1980 to 2016. This comprehensive visualization breaks down the sales data by genre and market, including global, North America (USA, Canada), Europe, and Japan. Users can personalize the view by selecting specific year ranges to focus on trends that matter most.
 
 <p align="center">
-<img src="img/global.png" alt="drawing" width="400"/>
+<a href="https://public.tableau.com/views/GlobalVideogameSales1980-2016/D-GL2">
+  <img src="img/global.png" alt="drawing" width="400"/>
+</a>
 <br>Global Video Game Sales Overview
 </p>
 
