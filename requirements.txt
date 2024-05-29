@@ -1,0 +1,6 @@
+﻿jupyterlab==3.2.1
+matplotlib==3.7.1
+matplotlib-inline==0.1.2
+pandas==2.2.2
+seaborn==0.12.2
+ydata-profiling==4.8.3
